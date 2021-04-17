@@ -5,6 +5,9 @@
 
 import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
+
+require("semantic-ui-sass")
+
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
